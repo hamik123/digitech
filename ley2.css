@@ -1,0 +1,64 @@
+#mek{
+	
+	border: solid 2px black; 
+	max-width: 800px ;
+	height: 70px ;
+	 margin:auto;
+	 background-color:#F4A460;
+	 color: black;
+	 
+}
+h1{
+	margin: 20px 0px 0px 20px;
+}
+#erku{
+	
+	display:block;
+	border: solid 2px black; 
+	max-width: 170px ;
+	height: 250px ;
+	margin: 0px 100px 50px 273px;
+	background-color:#6495ED;
+}
+#ereq{
+	
+	display:block;
+	border: solid 2px black; 
+	max-width: 170px ;
+	height: 245px ;
+	margin: -50px 100px 50px 273px;
+	background-color:wait;
+}
+p{
+	margin:0px 0px 0px 5px;
+}
+#chors{
+	
+	display:block;
+	border: solid 2px black; 
+	max-width: 170px ;
+	height: 500px ;
+	margin: -555px 100px 60px 903px;
+	background-color:#ffff40;
+
+}
+#hing{
+	display:block;
+	border: solid 2px black; 
+	max-width: 453px ;
+	height: 500px ;
+	margin: -563px 0px 0px 446px;
+	background-color:#ffff40;
+}
+#vec{
+	border: solid 2px black; 
+	max-width: 800px ;
+	height: 50px ;
+	 margin:0px 0px 0px 273px ;
+	 background-color: #92b5f2;
+	 color: black;
+	 
+}
+h4{
+	margin: 10px 0px 0px 700px ; 
+}
